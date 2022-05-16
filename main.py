@@ -1,0 +1,5 @@
+starter = input("what is your fave starter? ")
+main = input("what is your fave main? ")
+dessert = input("what is your fave dessert? ")
+drink = input("what is your fave drink? c")
+print ("your fave main is "+main+" and your fave drink is "+drink)
